@@ -1,6 +1,6 @@
 # Vault-Lab
 
-Install the [link](https://aka.ms/installazurecliwindows "Azure CLI") before beginning.
+Install the [Azure CLI](https://aka.ms/installazurecliwindows) before beginning.
 
 ```
 PS> az login
